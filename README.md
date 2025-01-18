@@ -54,9 +54,9 @@ This project focuses on predicting whether clients will subscribe to a term depo
 ## Files in the Repository
 
 1. **`train.csv`**: Original dataset used for training the model.
-2. **`eda_powerbi_dashboard.pbix`**: Power BI dashboard file.
-3. **`predictions.csv`**: Contains predictions with an additional column `y` (predicted outcome).
-4. **`bank_term_deposit.ipynb`**: Jupyter Notebook with data preprocessing, EDA, and modeling.
+2. **`Hackhaton.pbix`**: Power BI dashboard file.
+3. **`8063.csv`**: Contains predictions with an additional column `y` (predicted outcome).
+4. **`8063.ipynb`**: Jupyter Notebook with data preprocessing, EDA, and modeling.
 5. **`theme.json`**: Custom Power BI theme for the dashboard.
 6. **`README.md`**: Project overview and detailed description.
 
