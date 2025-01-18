@@ -75,12 +75,12 @@ This project focuses on predicting whether clients will subscribe to a term depo
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook bank_term_deposit.ipynb
+   jupyter notebook 8063.ipynb
    ```
 
-4. Visualize insights in Power BI using the `eda_powerbi_dashboard.pbix` file.
+4. Visualize insights in Power BI using the `Hackhaton.pbix` file.
 
-5. Submit the `predictions.csv` file for evaluation.
+5. Submit the `8063.csv` file for evaluation.
 
 ## Future Improvements
 - Implement advanced models like Random Forest or XGBoost for better accuracy.
